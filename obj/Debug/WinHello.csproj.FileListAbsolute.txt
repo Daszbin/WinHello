@@ -1,0 +1,12 @@
+C:\Users\buize\Desktop\New folder (2)\winhello\WinHello\obj\Debug\WinHello.csproj.AssemblyReference.cache
+C:\Users\buize\Desktop\New folder (2)\winhello\WinHello\obj\Debug\WinHello.csproj.CoreCompileInputs.cache
+C:\Users\buize\Desktop\New folder (2)\winhello\WinHello\bin\Debug\WinHello.exe
+C:\Users\buize\Desktop\New folder (2)\winhello\WinHello\bin\Debug\WinHello.pdb
+C:\Users\buize\Desktop\New folder (2)\winhello\WinHello\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\buize\Desktop\New folder (2)\winhello\WinHello\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\buize\Desktop\New folder (2)\winhello\WinHello\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\buize\Desktop\New folder (2)\winhello\WinHello\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\buize\Desktop\New folder (2)\winhello\WinHello\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\buize\Desktop\New folder (2)\winhello\WinHello\obj\Debug\WinHello.csproj.CopyComplete
+C:\Users\buize\Desktop\New folder (2)\winhello\WinHello\obj\Debug\WinHello.exe
+C:\Users\buize\Desktop\New folder (2)\winhello\WinHello\obj\Debug\WinHello.pdb

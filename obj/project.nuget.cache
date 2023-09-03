@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wBSs2yZztqC0Hs0Q7tmmf4T54Bam3XLfjYmA99DsuZOlc5lF3do1I2JH3LpBXgcTCO9oQcm2d8O8CTa9XivziQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buize\\Desktop\\New folder (2)\\winhello\\WinHello\\WinHello.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buize\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.25936-preview\\microsoft.windows.sdk.contracts.10.0.25936-preview.nupkg.sha512",
+    "C:\\Users\\buize\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\buize\\.nuget\\packages\\system.runtime.windowsruntime\\5.0.0-preview.5.20278.1\\system.runtime.windowsruntime.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\buize\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\5.0.0-preview.5.20278.1\\system.runtime.windowsruntime.ui.xaml.5.0.0-preview.5.20278.1.nupkg.sha512",
+    "C:\\Users\\buize\\.nuget\\packages\\xamarin.forms\\5.0.0.2612\\xamarin.forms.5.0.0.2612.nupkg.sha512"
+  ],
+  "logs": []
+}
